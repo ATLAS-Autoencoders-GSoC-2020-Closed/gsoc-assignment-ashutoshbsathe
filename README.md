@@ -26,7 +26,7 @@ The [original](https://github.com/Skelpdar/HEPAutoencoders/blob/master/4D/fastai
     <img src="./imgs/recon_loss_vs_fraction_dataset.png" width="45%">
 </center>
 
-The reconstruction loss on test set varies as follows:
+The autoencoder was trained for about 800 epochs on full (100%) data. The reconstruction loss on test set varies as follows:
 <center>
     <img src='./imgs/recon_loss_test.png' width="45%">
 </center>
